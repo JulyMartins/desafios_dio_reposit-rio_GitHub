@@ -1,2 +1,2 @@
-# desafios_dio_reposit-rio_GitHub
+# desafios_dio_repositorio_GitHub
 Desafio_dio_repositório_GitHub
